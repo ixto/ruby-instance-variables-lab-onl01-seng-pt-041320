@@ -14,5 +14,3 @@ lassie.name = "Lassie"
 puts lassie.name 
 
 end
-
-Dog.name
