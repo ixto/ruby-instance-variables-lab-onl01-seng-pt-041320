@@ -15,4 +15,4 @@ puts lassie.name
 
 end
 
-Dog
+Dog.name
